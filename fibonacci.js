@@ -1,23 +1,3 @@
-// let añoNacimiento = 2004
-// let añoActual = 2023
-// let nombre = 'agustin'
-
-// function calcularEdad(nacimiento, actual){
-//     return actual - nacimiento
-// }
-
-// console.log(nombre, 'tiene', calcularEdad(añoNacimiento, añoActual), 'años')
-
-// const mostrarMenu = () => {
-//     const comidas = ['fideos', 'asado', 'milanesa']
-//     console.log('Las comidas del menu son:')
-//     for(let i = 0; comidas.length > i; i++){
-//         console.log(comidas[i])
-//     }
-// }
-
-// mostrarMenu()
-
 // SERIE DE FIBONACCI
 
 let fibonacci = []
